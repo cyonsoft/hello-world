@@ -1,6 +1,6 @@
 # hello-world
 
-# Hey guys,
+Hey guys,
 
 # Frank here. I am a new starter in Python study. I am a poor guy, so I have to pick up by self-study. I hope scripting could change my life, not only for the meal, but also for the lifestyle and hobbies.  
 
